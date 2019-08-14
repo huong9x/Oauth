@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "fusion": "fusion"
+  },
+  "dependencies": {
+    "@fusion.io/integrations-knex": "^3.0.1-alpha.38",
+    "@fusion.io/proton": "^3.0.1-alpha.38",
+    "axios": "^0.19.0",
+    "jsonwebtoken": "^8.5.1",
+    "sqlite3": "^4.0.9"
+  },
+  "devDependencies": {
+    "@fusion.io/cli": "^3.0.1-alpha.38"
+  }
+}
